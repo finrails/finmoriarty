@@ -1,4 +1,7 @@
-## Olá, sou eu o Fin.
+## Hello, It's me Fin.
+
+#### Olá, sou eu Fin.
+
  <div>
   <a href="https://github.com/finmoriarty">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finmoriarty&layout=compact&langs_count=7&theme=dracula"/>
